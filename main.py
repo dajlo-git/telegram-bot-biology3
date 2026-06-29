@@ -98,7 +98,7 @@ def get_classes_markup():
     btn8 = types.InlineKeyboardButton("8 сынып", callback_data="grade8")
     btn9 = types.InlineKeyboardButton("9 сынып", callback_data="grade9")
     btn10 = types.InlineKeyboardButton("10 сынып", callback_data="grade10")
-    btn11 = types.InlineKeyboardButton("11 сынып", callback_data=" grade11")
+    btn11 = types.InlineKeyboardButton("11 сынып", callback_data="grade11")
     back = types.InlineKeyboardButton("⬅ Кері қайту", callback_data="back")
     books = types.InlineKeyboardButton(
         "📚 Оқулықтар (Google Disk)",
